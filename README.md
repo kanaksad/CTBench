@@ -109,7 +109,7 @@ If a fast evaluation is desired, MNBaB can be disabled via ```--disable-mnbab```
 
 ## CTBench Pretrained Models
 
-Please download from [MEGA](https://mega.nz/file/HVhUQLJI#fUr4M7TM76RdOuxysfCTIipkpnhuYrIPLzm9li0mEaQ). It takes 2.72GB memory.
+Please download from [MEGA](https://mega.nz/folder/3QBgiLaD#YsidcFQ5aGKmGpJF7S1loQ). It takes 2.72GB memory.
 
 ## Benchmark
 
