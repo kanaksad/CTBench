@@ -2,3 +2,4 @@ numpy==1.23.5
 tqdm
 scipy==1.13.1
 neptune
+matplotlib
